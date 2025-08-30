@@ -45,9 +45,3 @@ public class Program2 {
 	}
 
 }
-
-///findById
-///findAll
-///insert
-///update
-///delete
